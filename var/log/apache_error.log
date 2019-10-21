@@ -1,0 +1,1 @@
+[Sun Oct 20 12:24:08.774673 2019] [autoindex:error] [pid 16] [client 172.17.0.3:45922] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
