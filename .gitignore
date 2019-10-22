@@ -1,0 +1,7 @@
+.idea/
+/node_modules/*
+/var/*
+
+/assets/dist/css/responsive-style-processed.css
+/pub/css/responsive-styles.min.css*
+
